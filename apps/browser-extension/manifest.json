@@ -1,0 +1,9 @@
+{
+    "name": "Flipside Brain",
+    "description": "Flipside Brain is a productivity tool designed to limit distractions and promote deep work. This document tracks the entire development process, from ideation to implementation, scaling, and future enhancements.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+      "default_popup": "index.html"
+    }
+  }
