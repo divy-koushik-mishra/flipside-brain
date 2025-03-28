@@ -1,0 +1,9 @@
+[submodule "apps/blog-app/frontend"]
+	path = apps/blog-app/frontend
+	url = https://github.com/divy-koushik-mishra/flipside-blog-frontend.git
+[submodule "apps/blog-app/sanity-server"]
+	path = apps/blog-app/sanity-server
+	url = https://github.com/divy-koushik-mishra/flipside-sanity-server.git
+[submodule "apps/browser-extension"]
+	path = apps/browser-extension
+	url = https://github.com/divy-koushik-mishra/browser-extension.git
